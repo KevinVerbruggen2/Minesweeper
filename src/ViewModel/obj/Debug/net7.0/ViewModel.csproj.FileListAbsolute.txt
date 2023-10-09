@@ -1,0 +1,17 @@
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\ViewModel.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\Cells.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\Model.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\Cells.pdb
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\bin\Debug\net7.0\Model.pdb
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
