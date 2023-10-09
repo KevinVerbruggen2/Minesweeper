@@ -1,0 +1,10 @@
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\bin\Debug\netstandard2.1\Cells.deps.json
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\bin\Debug\netstandard2.1\Cells.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\bin\Debug\netstandard2.1\Cells.pdb
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.csproj.AssemblyReference.cache
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.AssemblyInfoInputs.cache
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.AssemblyInfo.cs
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.dll
+C:\Users\Kevin Verbruggen\Desktop\semester 2\Programming Visuele Gebruikersomgeving\minesweeper\src\Cells\obj\Debug\netstandard2.1\Cells.pdb
